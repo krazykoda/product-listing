@@ -16,7 +16,7 @@ function App() {
           <Size />
           <p class="text-center">Leave a star on github if this repository was useful :)</p>
           <p class="text-center">
-            <button type="button" class="btn btn-primary mr-2"><img src="/assets/icons/star-fill.svg" alt="" width="15" height="15" title="Bootstrap"/> Star</button>
+            <button type="button" class="btn btn-primary mr-2"><img src="/assets/icons/star-fill.svg" alt="" width="15" height="15" title="Bootstrap" class="mb-1"/> Star</button>
             <button class="btn btn-secondary disabled" type="submit">848</button>
 				  </p>
         </div>
